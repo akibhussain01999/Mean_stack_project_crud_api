@@ -1,0 +1,7 @@
+"id","fname","lname","email","password","mobile","created_by","updated_by","updated_at","created_at"
+1,"akib","hussain","akibhussain133@gmail.com","12345",NULL,NULL,NULL,NULL,NULL
+2,"gulfam","hussain","gulfam@gmail.com","gulfam","96548545752","akibhussain@123","akibhussain",NULL,NULL
+3,"gulfam","hussain","gulfam@gmail.com","gulfam","96548545752","akibhussain@123","akibhussain",NULL,NULL
+4,"gulfam","hussain","gulfam@gmail.com","gulfam","96548545752","akibhussain@123","akibhussain",NULL,NULL
+5,"badre","alam","badre@gmail.com","badre@123","96548545752","akibhussain@123","akibhussain","2020-10-03 00:31:59.54458+05:30","2020-10-03 00:31:59.54458+05:30"
+6,"fizakhan","khan","fizakhan@gmail.com","fiza@123","956956458","akibhussain","akibhussain","2020-11-15 01:14:03.681749+05:30","2020-11-15 01:14:03.681749+05:30"
